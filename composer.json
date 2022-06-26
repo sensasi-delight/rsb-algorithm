@@ -1,0 +1,22 @@
+{
+    "name": "sensasi-delight/rsb-algorithm",
+	"description": "Residential Social Benefit (RSB) Algorithm is an algorithm based on Eigenvector Centrality and Fuzzy Comprehensive Evaluation to conclude and compare two qualitative assessment",
+    "type": "library",
+    "license": "MIT",
+	"keywords": ["qualitative", "assesment", "fuzzy comprehensive evaluation", "fuzzy evaluation method"],
+    "autoload": {
+        "psr-4": {
+            "SensasiDelight\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zain Adam",
+            "email": "zainadam.id@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "sensasi-delight/eigenvector-centrality-php": "^1.0.0"
+    }
+}
