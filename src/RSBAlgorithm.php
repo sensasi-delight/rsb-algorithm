@@ -3,7 +3,7 @@
 namespace SensasiDelight;
 
 use MathPHP\LinearAlgebra\MatrixFactory;
-use SensasiDelight\EigenvectorCentralityPHP\Graph;
+use SensasiDelight\Graph;
 
 
 class RSBAlgorithm

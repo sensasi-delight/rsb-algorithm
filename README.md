@@ -7,12 +7,13 @@ Residential Social Benefit (RSB) Algorithm is an algorithm based on Eigenvector 
 Install using composer:
 
 ```bash
-composer require sensasi-delight/rsb-algorithm
+> composer require sensasi-delight/rsb-algorithm
 ```
 
 ## Usage
 
-The usage examples of this library are also available on [examples folder](https://github.com/sensasi-delight/eigenvector-centrality-php/tree/main/examples).
+<!-- TODO: -->
+<!-- The usage examples of this library are also available on [examples folder](https://github.com/sensasi-delight/rsb-algorithm/tree/main/examples). -->
 
 1. Define the assesment scale.
 
